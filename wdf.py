@@ -13,7 +13,7 @@ import math
 
 DEBUG = False
 
-MAX_GROUP_NUM = 35 # 每组人数
+MAX_GROUP_NUM = 30 # 每组人数
 
 QRImagePath = os.getcwd() + '/qrcode.jpg'
 
